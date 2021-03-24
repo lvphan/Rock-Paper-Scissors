@@ -1,0 +1,38 @@
+	h2 {
+    font-size: 32px;
+  }
+
+  p {
+    font-size: 25px;
+  }
+
+  div {
+    font-size: 25px;
+  }
+
+  button {
+    font-size: 25px;
+    padding: 10px;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+  h2 {
+    font-size: 70px;
+  }
+
+  p {
+    font-size: 60px;
+  }
+
+  div {
+    font-size: 60px;
+  }
+
+  button {
+    font-size: 70px;
+    padding: 10px;
+    margin: 10px;
+  }
+}
